@@ -12,7 +12,7 @@ Seção 1: Introdução
 |4. Recursos                                                            |OK     |-      |
 |5. Usando o Terminal                                                   |OK     |-      |
 |6. Terminais                                                           |OK     |-      |
-|
+
 
 <br>
 
@@ -24,7 +24,7 @@ Seção 2: Configuração do Ambiente
 |9. Windows: Instalação JDK e Eclipse                                   |OK     |-      |
 |10. Linux: Instalação JDK e Eclipse                                    |OK     |-      |
 |11. MacOS: Instalação JDK e Eclipse                                    |OK     |-      |
-|
+
 
 <br>
 
@@ -36,4 +36,3 @@ Seção 3: Fundamentos
 |14. Primeiro Programa #01                                          |OK     |-      |
 |15. Primeiro Programa #02                                          |OK     |-      |
 |16. Organização                                                    |OK     |2022-08-08|
-|

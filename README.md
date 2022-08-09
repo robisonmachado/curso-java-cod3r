@@ -35,4 +35,4 @@ Seção 3: Fundamentos
 |13. Criar Projeto                                                  |OK     |-      |
 |14. Primeiro Programa #01                                          |OK     |-      |
 |15. Primeiro Programa #02                                          |OK     |-      |
-|16. Organização                                                    |OK     |2022-08-08|
+|16. Organização                                                    |OK     |-      |
